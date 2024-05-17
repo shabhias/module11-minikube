@@ -46,7 +46,9 @@ your attempt.
 
 
 
-3. ![](images/5.png)
+3. Prepare different manifest files for executing Recreate deployment strategy.
+
+![](images/5.png)
 
 
 
